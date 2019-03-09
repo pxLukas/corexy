@@ -1,7 +1,0 @@
-*.stl
-*.gcode
-*.fcstd1
-
-stl/*
-gcode/*
-useless/*
